@@ -3,6 +3,7 @@
   padding: 16px;
   height: 500px;
   width: 90%;
+  display: flex;
 }
 
 .height {
@@ -22,6 +23,7 @@
   background-color: lightgreen;
   padding: 4px;
   flex: 1;
+  display: flex;
 }
 
 body {
@@ -32,6 +34,3 @@ h1 {
   font-size: 24px;
 }
 
-@media only screen and (min-width: 900px) {
- 
-}
